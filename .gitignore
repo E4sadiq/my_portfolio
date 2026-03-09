@@ -1,0 +1,8 @@
+.claude/
+.claude
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
+UPDATES_SUMMARY.md
+PROJECTS_UPDATE.html
